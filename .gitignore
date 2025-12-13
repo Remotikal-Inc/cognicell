@@ -1,0 +1,20 @@
+# stuff we don't need in git
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# ide stuff
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# our own data
+*.log
+*.pickle
+
+# os stuff
+.DS_Store
+Thumbs.db

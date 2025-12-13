@@ -1,0 +1,3 @@
+# just what we need, nothing fancy
+numpy>=1.21.0
+matplotlib>=3.5.0
